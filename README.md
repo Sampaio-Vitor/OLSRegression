@@ -10,6 +10,7 @@ This project focuses on performing salary analysis using the Ordinary Least Squa
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
+- [Medium Article](#medium-article)
 
 ## Introduction
 
@@ -42,4 +43,9 @@ We welcome contributions from the community to enhance this project. If you have
 ## License
 
 This project is licensed under the [MIT License](LICENSE), which allows for personal and commercial use.
+
+## Medium Article
+
+For a detailed explanation of Ordinary Least Squares (OLS) regression, you can refer to the corresponding Medium article [here](https://medium.com/@VitorCSampaio/understanding-ordinary-least-squares-ols-the-foundation-of-linear-regression-1d79bfc3ca35).
+
 
